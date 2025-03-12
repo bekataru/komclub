@@ -1,0 +1,28 @@
+:root {
+    --primary-color: #3498db;
+    --secondary-color: #2ecc71;
+    --text-color: #333333;
+    --background-color: #ffffff;
+    --border-color: #dddddd;
+  
+    --spacing-xs: 0.25rem;
+    --spacing-sm: 0.5rem;  
+    --spacing-md: 1rem;    
+    --spacing-lg: 1.5rem;  
+    --spacing-xl: 2rem;    
+  
+    --font-family-main: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-size-md: 1rem;
+    --line-height: 1.5;
+  }
+body
+{
+    margin:0;
+}
+main
+{
+    margin-top:5rem;
+    padding:1rem 0;
+    width:100%;
+    height:85vh;
+}
